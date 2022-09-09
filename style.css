@@ -11,7 +11,7 @@
 </head>
  <body>
     <h1>Restaurante Europeu Arco do Triunfo</h1>
-     color: #FFFF00
+     color: #FFFF00;
    
     <img id = "restaurante"  src="retaurante.jpg">
    
@@ -24,7 +24,7 @@ Para colocar uma imagem;
    
     <h2>Temos os mais variados tipos de Comidas Europeiras!Venha Conferir!</h2>
     h2{
-        Color:   #FFFF00
+        Color:   #FFFF00;
 
 
     <p>Entre o cardápio de comidas europeias, Temos:

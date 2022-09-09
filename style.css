@@ -1,46 +1,69 @@
-body{
-    text-align: center;
-    background-color: #0c0e0e37;
-
-}
-#Id
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
---->
-
-{
-    width: 100%;
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+    body{
+        text-align: center;
+        background-color: #0c0e0e37;
+<head>
+    <meta charset='utf-8'>
+    <title>Vou de bike...</title>
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+ <body>
+    <h1>Restaurante Europeu Arco do Triunfo</h1>
+     color: #FFFF00
+     
   <!---
-quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
+O tÍTULO h1 É O TÍTULO PRINCIPAL DO SEU SITE 
 --->
-}
-        
-h1{ 
-  height: 150px;
-  <!---
-define a altura do título principal
---->
-color: #FFFF00;
-
-
-        
-  <!---
-define a cor do título principal
---->
-  background-color:  #EDC100;
- <!---
-define a cor de fundo do título principal
---->
-  font-size: 80px;
+   
+    <img id = "restaurante"  src="retaurante.jpg">
+   
    <!---
-define a altura do título principal
+Para colocar uma imagem;
+-  precisa adicionar ela como arquivo no github,
+- criar um identificador para ela id="nomedaimagem"
+- usar src para busca da imagem -> src="NOMEDOARQUIVO.JPG"
 --->
-  font-style: italic;
- 
-}
-h2{
-    Color:  #D2C0a2
- <!---
-define a cor do segundo título
---->
-}
+   
+    <h2>Temos os mais variados tipos de Comidas Europeiras!Venha Conferir!</h2>
+    h2{
+        Color:   #FFFF00
+
+
+    <p>Entre o cardápio de comidas europeias, Temos:
+    <p>Strudel </p>
+    <p>Torta do Pastor</p>
+    <p>Pastel de Belém</p>
+    <p>Scones</p>
+    <p>Choucroute Garnie</p>
+    <p>Ratatouille</p>
+    <p>Schnitzel</p>
+    <p>Pierogi</p>
+    <p>Pot-au-feu</p>
+    
+    <p>E entre as bebidas, temos:
+   <p>Vinho Pinot Noir</p>
+    <p>Vinho Sangiovese</p>
+    <p>Vinho Tempranillo</p>
+    <p>Vinho Riesling</p>
+    <p>Whisky Scotch</p>
+     <p>Whisky Irlandês</p>
+     <p>Ginja</p>
+     <p>Cerveja Dublin</p>
+     <p>Cerveja Bruxelas</p>
+     <p>Cerveja Londres</p>
+     <p>Suco de Laranja Natural servido em Jarra</p>
+     <p>Suco de Uva Natural servido em Jarra</p>
+     <p>Suco de Maracujá Natural servido em Jarra</p>
+     <p>Suco de Morango Natural servido em Jarra</p>
+     
+    <p> E temos muito mais pratos típicos da europa!Estamos há mais de 30 anos em São Paulo,
+        nossa missão é apresentar para o povo brasileiro as delicias europeias!
+
+    </p>
+
+     <p>TERCEIRO PARÁGRAFO .</p>
+    
+ </body>
+</html>
